@@ -4,7 +4,7 @@ from handlers import handle_text
 from weather import get_weather
 
 # ТОКЕН СЮДЫ МАЛЬЧИКИ
-TOKEN = 'your_bot_token'
+TOKEN = 6973352753:AAEt-ML8lN-qw5gxbFmk9KA7SxlQcQvd3Tw
 
 # Словарь для хранения выбранного города для каждого пользователя
 user_city = {}
